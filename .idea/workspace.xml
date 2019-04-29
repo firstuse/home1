@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacff590-58aa-403b-926d-e1994de3a4b5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -43,8 +45,18 @@
       <file leaf-file-name="RightView.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/resources/css/RightView.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3774">
+            <state relative-caret-position="547">
               <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -324,20 +336,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DeepakMiddha.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepakMiddha.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,11 +443,12 @@
       <workItem from="1555530916773" duration="10904000" />
       <workItem from="1555542710713" duration="18907000" />
       <workItem from="1555798741486" duration="3187000" />
+      <workItem from="1555803937737" duration="1619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32998000" />
+    <option name="totallyTimeSpent" value="34617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -477,6 +490,181 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/css/RightView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RightComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/HomeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/css/LeftView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120683">
+          <caret line="7099" column="21" selection-start-line="7099" selection-start-column="21" selection-end-line="7099" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#215#0" />
+            <element signature="e#222#1083#0" />
+            <element signature="e#1108#1171#0" />
+            <element signature="e#1178#1375#0" />
+            <element signature="e#1391#1417#0" />
+            <element signature="e#1506#1527#0" />
+            <element signature="e#1534#1851#0" />
+            <element signature="e#1875#1903#0" />
+            <element signature="e#1908#2007#0" />
+            <element signature="e#2032#2077#0" />
+            <element signature="e#2081#2124#0" />
+            <element signature="e#2165#2316#0" />
+            <element signature="e#2326#2398#0" />
+            <element signature="e#2411#2454#0" />
+            <element signature="e#2483#2506#0" />
+            <element signature="e#2511#2534#0" />
+            <element signature="e#2539#2584#0" />
+            <element signature="e#2597#2620#0" />
+            <element signature="e#2626#2651#0" />
+            <element signature="e#2663#2689#0" />
+            <element signature="e#2697#2718#0" />
+            <element signature="e#2729#2818#0" />
+            <element signature="e#2824#2845#0" />
+            <element signature="e#2851#2868#0" />
+            <element signature="e#2872#2992#0" />
+            <element signature="e#3001#3052#0" />
+            <element signature="e#3084#3130#0" />
+            <element signature="e#3204#3250#0" />
+            <element signature="e#3287#3304#0" />
+            <element signature="e#3327#3385#0" />
+            <element signature="e#3391#3485#0" />
+            <element signature="e#3494#3517#0" />
+            <element signature="e#3523#3574#0" />
+            <element signature="e#3591#3614#0" />
+            <element signature="e#3622#3654#0" />
+            <element signature="e#3664#3780#0" />
+            <element signature="e#3785#3811#0" />
+            <element signature="e#3819#3872#0" />
+            <element signature="e#3881#3904#0" />
+            <element signature="e#3919#3991#0" />
+            <element signature="e#4035#4121#0" />
+            <element signature="e#4137#4161#0" />
+            <element signature="e#4178#4205#0" />
+            <element signature="e#4269#4302#0" />
+            <element signature="e#4433#4472#0" />
+            <element signature="e#4518#4595#0" />
+            <element signature="e#4687#4721#0" />
+            <element signature="e#4732#4773#0" />
+            <element signature="e#4784#4843#0" />
+            <element signature="e#4852#5031#0" />
+            <element signature="e#5042#5073#0" />
+            <element signature="e#5162#5181#0" />
+            <element signature="e#5199#5254#0" />
+            <element signature="e#5346#5377#0" />
+            <element signature="e#5408#5458#0" />
+            <element signature="e#5467#5495#0" />
+            <element signature="e#5505#5549#0" />
+            <element signature="e#5560#5580#0" />
+            <element signature="e#5591#5622#0" />
+            <element signature="e#5677#5787#0" />
+            <element signature="e#5797#5821#0" />
+            <element signature="e#5831#5853#0" />
+            <element signature="e#5863#5888#0" />
+            <element signature="e#5898#5922#0" />
+            <element signature="e#5932#5957#0" />
+            <element signature="e#5967#5989#0" />
+            <element signature="e#5997#6042#0" />
+            <element signature="e#6055#6117#0" />
+            <element signature="e#6130#6194#0" />
+            <element signature="e#6207#6271#0" />
+            <element signature="e#6284#6348#0" />
+            <element signature="e#6353#6456#0" />
+            <element signature="e#6472#6513#0" />
+            <element signature="e#6527#6577#0" />
+            <element signature="e#6594#6636#0" />
+            <element signature="e#6651#6693#0" />
+            <element signature="e#6713#6741#0" />
+            <element signature="e#6777#6804#0" />
+            <element signature="e#6818#6868#0" />
+            <element signature="e#6882#6930#0" />
+            <element signature="e#6951#7008#0" />
+            <element signature="e#7036#7065#0" />
+            <element signature="e#7078#7116#0" />
+            <element signature="e#7133#7272#0" />
+            <element signature="e#7282#7310#0" />
+            <element signature="e#7324#7370#0" />
+            <element signature="e#7388#7427#0" />
+            <element signature="e#7450#7554#0" />
+            <element signature="e#7561#7628#0" />
+            <element signature="e#7638#7659#0" />
+            <element signature="e#7665#7783#0" />
+            <element signature="e#7792#7848#0" />
+            <element signature="e#7854#7913#0" />
+            <element signature="e#7923#7988#0" />
+            <element signature="e#8006#8052#0" />
+            <element signature="e#8065#8171#0" />
+            <element signature="e#8172#8240#0" />
+            <element signature="e#8213#8238#0" />
+            <element signature="e#8241#8309#0" />
+            <element signature="e#8282#8307#0" />
+            <element signature="e#8310#8378#0" />
+            <element signature="e#8351#8376#0" />
+            <element signature="e#8379#8449#0" />
+            <element signature="e#8421#8447#0" />
+            <element signature="e#8468#8574#0" />
+            <element signature="e#8581#8736#0" />
+            <element signature="e#8750#8790#0" />
+            <element signature="e#8841#8883#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LeftComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -646,9 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,9 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,13 +1208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/css/RightView.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3774">
-          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/css/LeftView.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2278">
@@ -1054,7 +1229,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md">
+    <entry file="file://$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" />
+    <entry file="file://$PROJECT_DIR$/src/resources/css/RightView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1064,8 +1247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
