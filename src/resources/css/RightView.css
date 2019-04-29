@@ -213,6 +213,17 @@ body.offcanvas .home, body.offcanvas .colorlib-nav-toggle {
 .text-center {
   text-align: center !important;
 color: #641200}
+.align-left {
+  color: #641200}
+.bottomBorder{
+  border-bottom: #641200 1px solid;
+  margin-bottom: 15px;
+}
+.workDesc{
+  margin-top: 20px;
+}
+.workDesc p{
+  margin: 0 0 0 0}
 .homeContainer .text .subheading {
   font-size: 24px;
   color: #641200;
@@ -225,7 +236,7 @@ color: #641200}
   border-bottom: 2px solid #641200; }
 .homeContainer .text h1 {
   letter-spacing: 1px;
-  font-weight: 900; }
+  font-size: 2rem; }
 .homeContainer .text {
   z-index: 1;
   font-size: 18px;

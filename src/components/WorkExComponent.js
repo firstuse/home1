@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../resources/css/RightView.css';
+import data from '../resources/content/workEx.json';
 
 class WorkExComponent extends Component {
   render() {
@@ -10,15 +11,28 @@ class WorkExComponent extends Component {
             <div className="homeContainer"
                  data-stellar-background-ratio="0.5">
                 <div className="flex justifyCenter alignCenter" >
-                    <div className="col-md-8 text text-center">
+                    <div className="col-md-8 text align-left">
                        {/* <div  className="img bottomMargin"></div >*/}
-                        <div className="desc">
-                            <h2 className="subheading">Hello I'm</h2>
-                            <h1 className="bottomMargin text-center">Deepak Middha</h1>
-                            <p className="bottomMargin">
-                                Work ex page is in progress.</p>
-                            <p><a href="#" className="btn-custom" onClick={()=> this.props.handleNavigation(4)}>More About Me > <span class="ion-ios-arrow-forward"></span></a></p>
-                        </div>
+                        {data.map((workEx) => {
+                            return <div className="desc workDesc">
+                                <p className="subheading">
+                                    {workEx.role}
+                                    </p>
+                                <p>
+                                    {workEx.companyName}
+                                    </p>
+                                <p>
+                                    {workEx.duration}
+                                    </p>
+                                     <p className="bottomMargin">
+                                         {workEx.location}
+                                     </p>
+                                <div className={"bottomBorder"}></div>
+                            </div>
+                        })}
+                        {/*<div className="desc">
+                           <a href="#" className="btn-custom" onClick={()=> this.props.handleNavigation(4)}>More About Me > <span class="ion-ios-arrow-forward"></span></a></p>
+                        </div>*/}
                     </div>
                 </div>
             </div>

@@ -1,5 +1,23 @@
-{
-  "greeting": " Hello I'm",
-  "name": "Deepak Middha",
-  "intro": "I am a Software developer working for JP MORGAN Chase at bangalore, Having extensive experience for full life cycle development projects Client-Server and web technology. Experience in development & designing of application using various web technologies."
-}
+[
+  {
+    "image": "path",
+    "companyName": "JPMorgan chase & Co",
+    "duration": "Sep-2017 - Present, 1 yrs 8 monts",
+    "location": "Bangaluru Area, India",
+    "role": "Associate at JPMorgan chase & Co"
+  },
+  {
+    "image": "path",
+    "companyName": "Accenture",
+    "duration": "May-2015 - Sep 2017, 2 yrs 5 months",
+    "location": "Bangaluru Area, India",
+    "role": "Senior software Engineer"
+  },
+  {
+    "image": "path",
+    "companyName": "Valiance Solutions",
+    "duration": "Jan 2013 - Feb 2015, 2 yrs 2 months",
+    "location": "New Delhi Area, India",
+    "role": "Senior software Engineer"
+  }
+]
