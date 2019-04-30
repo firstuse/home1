@@ -4,8 +4,8 @@ import '../resources/css/LeftView.css';
 class LeftComponent extends Component {
     render() {
         return (
-            <div>
-                <a href="#"
+            <div class={this.props.toggleBar ? "offcanvas": ""}>
+                <a href="#" onClick={()=> this.props.toggleNavigationBar()}
                    className="js-xsNavBar xsNavBar">
                     <i></i>
                 </a>
@@ -23,7 +23,7 @@ class LeftComponent extends Component {
                         className="menu"
                         role="navigation">
                         <ul>
-                            <li className="active">
+                            <li>
                                 <a href="#" onClick={()=> this.props.handleNavigation(0)}>Home</a>
                             </li>
                             <li>

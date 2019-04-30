@@ -25,7 +25,7 @@ class HomeComponent extends Component {
                             <p className="bottomMargin">
                                 {data.intro}
                                 </p>
-                            <p><a href="#" className="btn-custom" onClick={()=> this.props.handleNavigation(4)}>More About Me > <span class="ion-ios-arrow-forward"></span></a></p>
+                            <p className={"d-none d-lg-block"}><a href="#" className="btn-custom" onClick={()=> this.props.handleNavigation(4)}>More About Me > <span class="ion-ios-arrow-forward"></span></a></p>
                         </div>
                     </div>
                 </div>

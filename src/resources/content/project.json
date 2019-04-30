@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Travelers Insurance ( May 2015 – Sep 2017)",
+    "skillUsed": "Skill Used: Javascript, React JS , JQuery, ASP.Net MVC, LINQ, WCF, SQL",
+    "roleDescription": "Role Description: #Understanding project requirement, #Solving The Architect related problems, #Manage team and providing the best and optimum solutions, #Design and Development of possible solution",
+    "projectDetails": "Project Details: Travelers Insurence is web based application which helps users to quote auto and Home Insurance. User can create new quote and can extend thier existing policies and they can buy a new policy. It is developed in MVC4 using entity framework WCF and java script."
+  },
+  {
+    "name": "Digital Asset management (Sep 2014 – Feb 2015)",
+    "skillUsed": "Skill Used: JavaScript, KendoUI, Bootstrap, JQuery, Ajax, SQL,Asp.Net MVC, Razor View engine, Entity Framework.",
+    "roleDescription": "Role Description: #Understanding project requirement, #Design and Development of possible solution, #Testing",
+    "projectDetails": "Project Details: Digital Asset Management System is web based single page application which helps distributors/retailers to manage, share, download different product catalogue. Its a single point from where retailer can manage all its products as well push its data across multiple merchants. It is developed in MVC4 using KendoUI."
+  },
+  {
+    "name": "EasyCabs  (Jan 2014 – Sep 2014)",
+    "skillUsed": "Skill Used: Mvc 4.0, sql server 2008 r2, Telrik controls, javascript, css",
+    "roleDescription": "Role Description: #Understanding project requirement, #Design and Development of possible solution, #Testing",
+    "projectDetails": "Project Details: Easycabs one of premier car rental services in India. It has more than 5000 carz running across India. Purpose of this project was to develop booking engine, integrating with android application, tracking all the cabs, displaying cabs in real time basis. It consists of WCF application which interacts with android application and updates car location every 5 seconds"
+  },
+  {
+    "name": "ILS (Jul 2013 – Jan 2014)",
+    "skillUsed": "Skill Used: C#, MVC4, JavaScript, JQuery, Razor, Entity Framework, KendoUI Telerik Controls, AJAX, SQL Server 2008, Visual Studio 2012",
+    "roleDescription": "Role Description: #Understanding project requirement, #Design and Development of possible solution, #Testing",
+    "projectDetails": "Project Details: ILS is web based application which helps to manage, Insurance Leads. This includes lead purchase, mailing leads,Scrubing of leads according zip code and drop dates for agent, csr, admin, printer, and super admin. It is developed in MVC4 using entity framework."
+  },
+  {
+    "name": "Time'em (Jan 2013 – Jul 2013)",
+    "skillUsed": "Skill Used: C#, MVC4, JavaScript, JQuery, Razor, Entity Framework, KendoUI Telerik Controls, AJAX, SQL Server 2008, Visual Studio 2012",
+    "roleDescription": "Role Description: #Understanding project requirement, #Design and Development of possible solution, #Testing",
+    "projectDetails": "Project Details: Timeem is a web based application developed to mange and assigns tasks to employees and capture their timesheet. It also includes employee management and reporting. It is developed in Mvc4 using Visual studio 2012."
+  }
+]

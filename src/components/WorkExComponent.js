@@ -7,12 +7,10 @@ class WorkExComponent extends Component {
     return (
 
         <div className="home">
-            <div> {this.props.progressStep}</div>
             <div className="homeContainer"
                  data-stellar-background-ratio="0.5">
                 <div className="flex justifyCenter alignCenter" >
-                    <div className="col-md-8 text align-left">
-                       {/* <div  className="img bottomMargin"></div >*/}
+                    <div className="col-md-8 text align-left mt-5">
                         {data.map((workEx) => {
                             return <div className="desc workDesc">
                                 <p className="subheading">
@@ -30,9 +28,6 @@ class WorkExComponent extends Component {
                                 <div className={"bottomBorder"}></div>
                             </div>
                         })}
-                        {/*<div className="desc">
-                           <a href="#" className="btn-custom" onClick={()=> this.props.handleNavigation(4)}>More About Me > <span class="ion-ios-arrow-forward"></span></a></p>
-                        </div>*/}
                     </div>
                 </div>
             </div>
